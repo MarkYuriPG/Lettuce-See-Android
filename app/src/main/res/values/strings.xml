@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lettuce See</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="lettuce_health_monitoring">Lettuce Health Monitoring</string>
+    <string name="your_image_will_be_displayed_here">Your image will be displayed here</string>
+</resources>

@@ -1,0 +1,3 @@
+normal_lettuce
+disease_lettuce
+weed
